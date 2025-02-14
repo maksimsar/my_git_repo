@@ -1,0 +1,12 @@
+{
+  "name": "my_git_repo",
+  "version": "11.1.0",
+  "description": "-",
+  "main": "index.js",
+  "repository": "https://github.com/maksimsar/my_git_repo.git",
+  "author": "maksimsar <saranka2000@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
